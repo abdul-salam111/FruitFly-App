@@ -1,16 +1,7 @@
 # fruitfly
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+ Flutter app integrated with an external API powered by a machine learning model for fly identification.
+• Enabled users to upload images, process them via the API, and receive results with fly counts and circled
+visuals.
+• Focused on providing insights for entomological research and agricultural monitoring.,
 samples, guidance on mobile development, and a full API reference.
